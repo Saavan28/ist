@@ -1,0 +1,93 @@
+body{
+	margin: 0;	
+	font-family: Georgia, Arial, serif;
+	font-size: 20px;
+	line-height: 40px;
+	color: #001BFF;	
+}
+.topnav{
+  background-color: #2CE88D;
+  font-family: Tahoma, serif;
+  font-size: 25px;
+}
+.topnav a{
+	  float: left;
+  color: #0F00FF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+.topnav a:hover{
+  color: black;
+}
+.topnav a.active{
+	  background-color: #4CAF50;
+  color: black;
+}
+header{
+	background-color: #9ABCF5;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 1px;
+	font-family: Times New Roman, serif;
+	font-size: 40px;
+}
+header p{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-family: Arial, serif;
+	font-size: 32px;
+}
+header img{
+	border-radius: 150px;
+	width: 500px;
+	border: 9px solid dodgerblue;
+}
+footer{
+	text-align: center;
+	font-size: 28px;
+	background-color: #8FB4F3;
+	color: black;
+	padding: 60px;
+}
+
+footer p{
+	margin: 0;
+	font-size: 28px;
+}
+
+footer a{
+	color: white;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Twitter */
+.fa-twitter {
+  color: blue;
+  text-align: center;
+}
+
+/* Instagram */
+.fa-instagram {
+  color: blue;
+  text-align: center;
+}
+/* Facebook */
+.fa-facebook {
+  color: blue;
+  text-align: center;
+
